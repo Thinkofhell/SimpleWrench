@@ -1,0 +1,8 @@
+name: SimpleWrench
+version: 1.0
+main: net.thinkofhell.simplewrench.Main
+author: Thinkofhell
+depend: [Vault]
+commands:
+   wrench:
+      description: Allows you to give yourself a wrench.
