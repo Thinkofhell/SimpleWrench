@@ -1,7 +1,6 @@
 package net.thinkofhell.simplewrench;
 
 import java.util.logging.Level;
-import me.MnMaxon.Wrench.MainListener;
 import net.milkbowl.vault.economy.Economy;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
